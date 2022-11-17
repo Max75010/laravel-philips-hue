@@ -10,6 +10,7 @@
       "homepage": "http://www.dennissmink.nl",
       "role": "Owner"
     }
+
   ],
   "minimum-stability": "dev",
   "prefer-stable": true,
